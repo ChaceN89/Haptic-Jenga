@@ -5,17 +5,21 @@ Completed as a final project for ENSF 545 (Intro to Virtual Reality)
 
 ---
 
-![Normal Mode](Jena Pictures/Normal mode.png)
-Normal Mode
+## Main Menu
+![Main Menu](JengaPictures/MainMenu.png)
 
-![Pause Menu 2](Jena Pictures/Pause Menu 2.png)
-Pause Menu 2
+## Normal Mode
+![Normal Mode](./JengaPictures/NormalMode.png)
 
-![Pause Menu](Jena Pictures/Pause menu.png)
-Pause Menu
+## Hard Mode
+![Hard Mode](JengaPictures/HardMode.png)
 
-![Hard Mode](Jena Pictures/Hard Mode.png)
-Hard Mode
+## Pause menu
+![Pause Menu](JengaPictures/PauseMenu.png)
+![Pause Menu 2](JengaPictures/PauseMenu2.png)
 
-![Main Menu](Jena Pictures/Main Menu.png)
-Main Menu
+
+
+
+
+
